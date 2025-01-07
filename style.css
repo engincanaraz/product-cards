@@ -1,0 +1,39 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+/* Product Card */
+@media (max-width: 768px) {
+  .product-card .img-wrap {
+    border-bottom: 1px solid #dee2e6;
+  }
+}
+
+.product-card .img-wrap {
+  height: 250px;
+  padding: 0.5rem;
+  display: block;
+  text-align: center;
+}
+
+.product-card img {
+  width: auto;
+  height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+}
+.product-card .checked {
+  color: #f27a1a;
+}
+.product-card .title {
+  text-decoration: none;
+  color: #212529;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.product-card .price {
+  color: #f27a1a;
+  font-size: 22px;
+}
+.product-card .rating {
+  font-size: 13px;
+}
