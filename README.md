@@ -18,12 +18,12 @@ Bu proje, Bootstrap kullanarak oluşturulmuş basit bir ürün kartları web say
 
 1. Bu projeyi yerel makinenize klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/depoadi.git
+   git clone https://github.com/engincanaraz/product-cards.git
    ```
 
 2. Proje dizinine gidin:
    ```bash
-   cd depoadi
+   cd product-cards
    ```
 
 3. `index.html` dosyasını bir tarayıcıda açarak projeyi görüntüleyin.
